@@ -1,0 +1,75 @@
+{
+    "Cards":
+    [
+        {
+            "Name": "kamrade",
+            "Tier": 1,
+            "Type": 2,
+            "Role": 1,
+            "EntityIndex": 0,
+            "Cost": [5,0,0],
+            "MatName": "CARDKAMRADMat",
+            "Lingering": false
+        },
+        {
+            "Name": "Cutter",
+            "Tier": 1,
+            "Type": 2,
+            "Role": 1,
+            "EntityIndex": 1,
+            "Cost": [10,0,0],
+            "MatName": "CARDCUTTERMat",
+            "Lingering": false
+        },
+        {
+            "Name": "Barrack",
+            "Tier": 1,
+            "Type": 0,
+            "Role": 1,
+            "EntityIndex": 4,
+            "Cost": [50,50,0],
+            "MatName": "CARDBARACKMat",
+            "Lingering": false
+        },
+        {
+            "Name": "Minion",
+            "Tier": 1,
+            "Type": 2,
+            "Role": 0,
+            "EntityIndex": 6,
+            "Cost": [5,0,0],
+            "MatName": "CARDMINIONSMat",
+            "Lingering": false
+        },
+        {
+            "Name": "HealTower",
+            "Tier": 1,
+            "Type": 0,
+            "Role": 1,
+            "EntityIndex": 7,
+            "Cost": [20,10,30],
+            "MatName": "CARDHEALINGMat",
+            "Lingering": false
+        },
+        {     
+          "Name": "Athletic",
+          "Tier": 1,
+          "Type": 2,
+          "Role": 1,
+          "EntityIndex": 8,
+          "Cost": [20,0,0],
+          "MatName": "CARDBODYBUILDERMat",
+          "Lingering": false
+        },
+        {
+          "Name": "Soldier",
+          "Tier": 1,
+          "Type": 2,
+          "Role": 0,
+          "EntityIndex": 9,
+          "Cost": [30,10,0],
+          "MatName": "CARDSOLDIERMat",
+          "Lingering": false
+        }
+    ]
+}
